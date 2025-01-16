@@ -1,0 +1,11 @@
+{
+  "description": "Documentation website for is-a.dev",
+  "repo": "https://github.com/nitr0u5",
+  "owner": {
+    "username": "nitrous",
+    "email": "k0stic@hotmail.com"
+  },
+  "record": {
+    "CNAME": "https://github.com/nitr0u5"
+  }
+}
